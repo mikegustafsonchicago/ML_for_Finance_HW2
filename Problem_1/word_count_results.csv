@@ -1,0 +1,26 @@
+var,alpha,r2,5 Topics,Significant Topics (p<0.05),F-statistic,Prob
+mret,0.009862658461312821,0.174,1929;anastasio;define;doomed;paribas,1929;anastasio;define;doomed;paribas,21.29,6.07e-16
+vol,0.09770099572992257,0.240,crisis;currents;deals;makers;tennille,,25.38,2.91e-22
+indpro,0.0020573743134329114,0.267,alaskans;bios;cam;osborn;palin,alaskans;bios;cam;osborn;palin,73.85,4.52e-28
+indprol1,0.0015037553212997384,0.266,aston;insights;mga;osborn;tennille,aston;insights;mga;osborn;tennille,36.59,4.24e-26
+Agric_vol,0.18504070195423022,0.348,08;banking;insight;jacky;jones,banking;jacky;jones,42.96,1.92e-35
+Food_vol,0.14174741629268062,0.252,deal;deals;media;pillsbury;track,deal;deals;media;track,27.10,1.22e-23
+Soda_vol,0.1707352647470692,0.447,brief;by;reporter;staff;wall,by,64.87,1.48e-49
+Beer_vol,0.08529644499741025,0.441,abreast;merry;politics;staff;wall,abreast;politics,63.50,9.89e-49
+Smoke_vol,0.1567455410205595,0.331,andrew;by;inc;news;of,andrew;by;news,39.85,3.03e-33
+Toys_vol,0.0952750047242729,0.185,andrews;jones;kruger;tharp;the,jones,18.27,2.39e-16
+Fun_vol,0.11456687286348714,0.326,brief;news;politics;weisman;world,brief;politics,38.93,1.38e-32
+Books_vol,0.14174741629268062,0.400,brief;by;finance;news;world,brief,53.68,1.26e-42
+Hshld_vol,0.09353431520292387,0.064,accessible;arbs;buff;collects;guidera,,13.89,1.46e-06
+Clths_vol,0.08850074914473438,0.308,and;heard;jones;news;of,jones;of,35.72,3.07e-30
+Hlth_vol,0.1176811952434999,0.212,larkin;marketing;politics;salaried;trafalgar,marketing;politics,21.63,3.44e-19
+Drugs_vol,0.14174741629268062,0.283,business;calian;clinton;economics;of,economics,31.79,2.76e-27
+Chems_vol,0.08111308307896872,0.187,china;internet;newswires;unit;wall,unit;wall,18.46,1.62e-16
+Rubbr_vol,0.06963744730628223,0.245,business;degrees;geoffrey;jerusalem;shipbuilding,business,26.09,7.84e-23
+Txtls_vol,0.12796968682159415,0.476,by;corporate;geoffrey;news;staff,staff,73.09,2.56e-54
+Cnstr_vol,0.125631660247412,0.324,leading;newswires;policy;politics;street,street,38.62,2.32e-32
+Steel_vol,0.1006938631476027,0.462,media;politics;staff;technology;trump,staff,68.93,6.11e-52
+FabPr_vol,0.16566059589499135,0.330,islamic;josh;news;ryan;wsj,,39.55,4.97e-33
+Mach_vol,0.08111308307896872,0.207,economics;news;newswires;of;squeo,newswires;of;squeo,20.94,1.31e-18
+ElcEq_vol,0.09770099572992257,0.390,backup;business;inc;policy;staff,backup;policy,51.31,4.36e-41
+Autos_vol,0.0837380653526649,0.269,1993;brief;concern;international;rejecting,,29.55,1.46e-25

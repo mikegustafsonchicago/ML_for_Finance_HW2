@@ -1,0 +1,50 @@
+var,alpha,r2,5 Topics,Significant Topics (p<0.05),F-statistic,Prob
+mret,0.0041320124001153384,0.1079,Problems;Federal Reserve;Recession;Bear/bull market;Options/VIX,,9.577,1.22e-08
+vol,0.08111308307896872,0.6294,Small business;Problems;Recession;Investment banking;Options/VIX,,134.5,4.77e-83
+indpro,0.0005659170163246243,0.2191,Recession;Space program;Clintons;Southeast Asia;Oil market,,22.22,1.21e-19
+indprol1,0.0005336699231206312,0.2767,Russia;Health insurance;Recession;Space program;Oil market,,30.30,4.36e-26
+Agric_vol,0.11887076977119033,0.3059,Drexel;Investment banking;Southeast Asia;Mortgages;Retail,,34.90,1.46e-29
+Soda_vol,0.1707352647470692,0.5152,Japan;International exchanges;China;Trading activity;Lawsuits,,84.17,4.30e-60
+Beer_vol,0.08111308307896872,0.4580,China;Futures/indices;Private equity/hedge funds;Retail;Revenue growth,,66.92,1.42e-50
+Smoke_vol,0.20565123083486536,0.4356,News conference;Economic growth;Financial crisis;Tobacco;Exchanges/composites,,61.12,4.07e-47
+Toys_vol,0.06350425168595962,0.2848,Savings & loans;Disease;Broadcasting;Oil market;Reagan,,31.54,4.92e-27
+Fun_vol,0.1707352647470692,0.3298,Competition;European sovereign debt;Financial crisis;Marketing;Exchanges/composites,,38.98,1.57e-32
+Books_vol,0.1707352647470692,0.4389,Police/crime;Financial crisis;International exchanges;Exchanges/composites;European politics,,61.96,1.25e-47
+Hshld_vol,0.08111308307896872,0.2289,Activists;Environment ;Control stakes;Recession;Credit cards,,23.51,1.05e-20
+Clths_vol,0.08850074914473438,0.4819,Cable;C-suite;SEC;Phone companies;European politics,,73.66,2.06e-54
+Hlth_vol,0.1124737178364752,0.1861,Record high;Mining;Publishing;Latin America;Product prices,,18.11,3.45e-16
+MedEq_vol,0.1176811952434999,0.2803,Earnings losses;China;Mid-level executives;Financial reports;Private equity/hedge funds,,30.84,1.68e-26
+Drugs_vol,0.14831025143361043,0.3447,European sovereign debt;Oil drilling;Clintons;Mortgages;Foods/consumer goods,,41.66,1.96e-34
+Chems_vol,0.06734150657750829,0.3299,Internet;M&A;Savings & loans;Russia;Bankruptcy,,39.00,1.52e-32
+Rubbr_vol,0.05281079711934331,0.2507,Fast food;Bankruptcy;Arts;Clintons;Mortgages,,26.49,4.17e-23
+Txtls_vol,0.20565123083486536,0.4804,Mid-size cities;California;Futures/indices;Acquired investment banks;Microchips,,73.24,3.51e-54
+BldMt_vol,0.1006938631476027,0.3694,Mobile devices;European sovereign debt;Currencies/metals;Oil market;European politics,,46.39,1.08e-37
+Cnstr_vol,0.10447659715608042,0.3352,Executive pay;SEC;California;Clintons;Futures/indices,,39.93,3.28e-33
+Steel_vol,0.1176811952434999,0.5033,Problems;China;Futures/indices;Bush/Obama/Trump;Private equity/hedge funds,,80.27,5.01e-58
+FabPr_vol,0.10840143591783309,0.3821,Research;Environment ;NY politics;Immigration;Positive sentiment,,48.98,2.01e-39
+Mach_vol,0.1707352647470692,0.3580,Mid-size cities;International exchanges;California;Futures/indices;National security,,44.16,3.61e-36
+Autos_vol,0.12796968682159415,0.2876,Small business;Treasury bonds;Latin America;Marketing;Automotive,,31.97,2.30e-27
+Aero_vol,0.1707352647470692,0.3024,Research;Schools;Humor/language;Options/VIX;European politics,,34.34,3.84e-29
+Gold_vol,0.0952750047242729,0.2188,Small caps;Company spokesperson;Publishing;NY politics;Rail/trucking/shipping,,22.18,1.30e-19
+Mines_vol,0.14174741629268062,0.6443,Mining;China;Futures/indices;Mortgages;Private equity/hedge funds,,143.5,1.43e-86
+Coal_vol,0.20565123083486536,0.6175,Changes;Treasury bonds;Immigration;China;Commodities,,127.9,2.35e-80
+Oil_vol,0.1124737178364752,0.4957,M&A;Problems;Private/public sector;Financial crisis;Oil market,,77.85,1.01e-56
+Util_vol,0.10256779307444219,0.4559,Music industry;Treasury bonds;Challenges;National security;Revenue growth,,66.35,3.06e-50
+Telcm_vol,0.14174741629268062,0.2148,Mobile devices;Programs/initiatives;China;Humor/language;Futures/indices,,21.66,3.52e-19
+PerSv_vol,0.07225349491787214,0.2590,Environment ;Venture capital;Financial crisis;Foods/consumer goods;Trading activity,,27.68,4.83e-24
+BusSv_vol,0.07225349491787214,0.4097,Electronics;US defense;Health insurance;SEC;Accounting,,54.97,2.63e-43
+Hardw_vol,0.20565123083486536,0.3437,Phone companies;Tobacco;Oil market;Microchips;NASD,,41.48,2.63e-34
+Softw_vol,0.14560059950206486,0.6184,Key role;Justice Department;China;Futures/indices;Acquired investment banks,,128.3,1.49e-80
+Chips_vol,0.17508270317357252,0.4414,Small caps;Mining;Phone companies;Bank loans;NASD,,62.58,5.30e-48
+LabEq_vol,0.3158635408267819,0.5400,Record high;Bond yields;Health insurance;SEC;Reagan,,92.96,1.45e-64
+Paper_vol,0.08111308307896872,0.4274,M&A;Exchanges/composites;Bush/Obama/Trump;Microchips;Iraq,,59.11,6.80e-46
+Boxes_vol,0.09770099572992257,0.3222,Company spokesperson;Marketing;International exchanges;Utilities;Trading activity,,37.64,1.43e-31
+Trans_vol,0.06734150657750829,0.1758,M&A;Control stakes;Iraq;Buffett;Lawsuits,,16.90,3.81e-15
+Whlsl_vol,0.08111308307896872,0.3314,Small business;Japan;Airlines;Utilities;Options/VIX,,39.26,9.81e-33
+Rtail_vol,0.06734150657750829,0.1897,Electronics;Broadcasting;Schools;Germany;Oil market,,18.55,1.46e-16
+Meals_vol,0.10642092440647247,0.3071,Company spokesperson;Pharma;Marketing;Systems;Reagan,,35.10,1.04e-29
+Banks_vol,0.14174741629268062,0.5648,Financial crisis;SEC;Accounting;Options/VIX;NASD,,102.8,2.57e-69
+Insur_vol,0.09770099572992257,0.3361,Credit ratings;Company spokesperson;Financial crisis;International exchanges;Bank loans,,40.09,2.50e-33
+RlEst_vol,0.09770099572992257,0.3987,Publishing;Automotive;International exchanges;Mortgages;National security,,52.50,9.96e-42
+Fin_vol,0.14174741629268062,0.4197,Canada/South Africa;Mortgages;Subsidiaries;Taxes;Private equity/hedge funds,,57.28,9.28e-45
+Other_vol,0.125631660247412,0.6076,Treasury bonds;Japan;International exchanges;Futures/indices;Elections,,122.6,3.67e-78
